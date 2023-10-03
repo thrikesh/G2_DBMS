@@ -32,6 +32,7 @@ SQL QUERY:
 create table student(rollno numeric(4), name varchar(50), age numeric(2), address varchar(10), phoneno numeric(10));
 
 OUTPUT:
+<br>
 <img width="613" alt="271320809-29fcdd94-e003-492c-9f3e-eee9fd45d026" src="https://github.com/thrikesh/G2_DBMS/assets/119576222/8ba046a9-afbf-4731-a44f-4f2aa4d74612">
 
 
@@ -42,16 +43,19 @@ SQL QUERY:
 alter table student add department varchar(10);
 
 OUTPUT:
+<br>
+<img width="623" alt="271324910-06af2051-da64-49cd-ad2c-495aeab4cbed" src="https://github.com/thrikesh/G2_DBMS/assets/119576222/78924492-d26a-4d8f-be5d-f03ea0351a7f">
+
 
 
     Drop the student table
 
 SQL QUERY:
-<img width="623" alt="271324910-06af2051-da64-49cd-ad2c-495aeab4cbed" src="https://github.com/thrikesh/G2_DBMS/assets/119576222/78924492-d26a-4d8f-be5d-f03ea0351a7f">
 
 drop table student;
 
 OUTPUT:
+<br>
 <img width="295" alt="271325648-43100b74-7a5d-4ae4-9eb2-efe05e2aaa0a" src="https://github.com/thrikesh/G2_DBMS/assets/119576222/5536ec1f-e553-455a-98f0-5c85daaec0a2">
 
 
@@ -62,6 +66,7 @@ SQL QUERY:
 truncate table mystudent;
 
 OUTPUT:
+<br>
 <img width="286" alt="271325952-eed2ba30-2769-44cf-9fa5-b264aed25cd5" src="https://github.com/thrikesh/G2_DBMS/assets/119576222/76ac61ef-3927-4f59-b027-2044a8e297cd">
 
 
