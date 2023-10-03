@@ -72,6 +72,7 @@ SQL QUERY:
 rename student to mystudent;
 
 OUTPUT:
+<br>
 <img width="383" alt="271326620-8b5b3f3a-add8-489e-ba3d-3ff163c195c6" src="https://github.com/thrikesh/G2_DBMS/assets/119576222/c0828cad-f7f2-4e63-a0ef-d634a6d62be4">
 
 # RESULT:
