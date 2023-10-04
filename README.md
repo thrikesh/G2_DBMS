@@ -1,7 +1,6 @@
 # G2_DBMS
 # EXP NO 1: DATA DEFINITION LANGUAGE COMMANDS IN RDBMS
 # AIM:
-
 To create a student database and execute DDL queries using SQL.
 # DDL (Data Definition Language)
 
